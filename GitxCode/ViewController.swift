@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     var vTest = 0
     var vTest1 = 1
     var vTest2 = 5
+    
+    var header = true
 
     override func viewDidLoad() {
         super.viewDidLoad()
